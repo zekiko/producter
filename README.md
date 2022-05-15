@@ -23,6 +23,15 @@ maven install
 ```
 http://localhost:8080/playground
 ```
+- H2 DB runs on:
+```
+http://localhost:8080/h2-console
+
+db name: testdb
+other fields remain same
+
+```
+
 - Get all players:
 ```
 {
