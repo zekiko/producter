@@ -1,0 +1,11 @@
+{
+  findAllPlayers {
+    id
+    name
+    surname
+    position {
+      id
+      type
+    }
+  }
+}

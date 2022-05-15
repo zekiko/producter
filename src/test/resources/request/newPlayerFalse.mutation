@@ -1,0 +1,5 @@
+mutation {
+  newPlayer(
+    surname: "zeki2",
+    position: "C"){id name surname position{id type}}
+}
