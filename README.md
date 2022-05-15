@@ -1,4 +1,4 @@
-# Basketball Team Registration API Wİth Spring Boot and GraphQL 
+# Basketball Team Registration API With Spring Boot and GraphQL 
 
 This is a Spring Boot project for basketball team registration by using GraphQL.
 
