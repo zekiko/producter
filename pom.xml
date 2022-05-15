@@ -11,7 +11,7 @@
 
     <groupId>com.producter</groupId>
     <artifactId>cagri</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1</version>
     <name>cagri</name>
     <description>GraphQL SpringBoot App</description>
 
